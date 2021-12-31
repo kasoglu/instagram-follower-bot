@@ -1,9 +1,9 @@
 # Instagram Follower Bot
 
-An [Instagram](https://www.instagram.com/) follower bot written in Python. The bot follows the follower of which account you want. e.g. (You want to follow @cristiano's followers) and you can take follow back from his followers. Hereby, you will earn more followers.
+An [Instagram](https://www.instagram.com/) follower bot written in Python. The bot follows the follower of which account you want. e.g. (You want to follow @username's followers) and you can take follow back from his followers. Hereby, you will earn more followers.
 
 <p align="center">
-  <img src="https://i.giphy.com/media/oqVedrbsXFU6zjXdXF/giphy.webp" alt="instagram-bot"/>
+  <img src="https://i.giphy.com/media/yWme7IGYO3nXOTpehg/giphy.webp" alt="instagram-bot"/>
 </p>
 
 
